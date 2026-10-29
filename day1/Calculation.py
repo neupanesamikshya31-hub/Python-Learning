@@ -1,0 +1,7 @@
+print("Shopping Bill")
+print("Notebook: Rs.", 100)
+print("Pen: Rs.", 30)
+print("Pencil: Rs.", 20)
+print("=================")
+print("Total: Rs.", 100+30+20)
+print("=================")

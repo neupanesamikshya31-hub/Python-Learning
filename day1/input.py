@@ -1,0 +1,8 @@
+print("==============================")
+print("Daily Expenses")
+print("==============================")
+food=int(input("Enter your food expenses: Rs."))
+transport=int(input("Enter your transport expenses: Rs."))
+snacks=int(input("Enter your snacks expenses: Rs."))
+print("------------------------")
+print("Total Expenses: Rs.", food+transport+snacks)
